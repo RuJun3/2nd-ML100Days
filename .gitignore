@@ -40,3 +40,10 @@ data/Part02/titanic_test.csv
 data/Part02/titanic_train.csv
 pdf/D16.pdf
 pdf/D19.pdf
+pdf/D22.pdf
+pdf/D21.pdf
+pdf/D20.pdf
+Day_022_LabelEncoder_and_OneHotEncoder.ipynb
+Day_021_Reduce_Skewness.ipynb
+Day_020_Outliers.ipynb
+Day_019_Fill_NaN_and_Scalers.ipynb
